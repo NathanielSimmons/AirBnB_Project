@@ -18,3 +18,7 @@ Welcome to the Mock Airbnb Project! This web application aims to replicate the b
 2. **Data Modeling:** Designing an efficient MongoDB schema to store property listings, user profiles, and bookings while maintaining scalability.
 3. **User Experience:** Creating an intuitive and responsive user interface for a seamless booking experience.
 5. **Testing:** Comprehensive testing for both backend and frontend to identify and fix potential issues.
+
+## Resources
+
+1. [Wireframe](https://app.diagrams.net/#G17Ogzj-7apCAQwrKAEo3QeoXz_ePReOWU)
