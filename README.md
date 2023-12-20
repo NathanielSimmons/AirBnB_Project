@@ -9,7 +9,7 @@ Welcome to the Mock Airbnb Project! This web application aims to replicate the b
 
 1. **Property Listings:** Users can browse through a list of available properties, view details, and see images.
 2. **Booking System:** Users can book a property for specific dates, and property owners can manage their bookings.
-3. **User Authentication:** OAuth authentication will be implemented, allowing users to sign in using popular social media platforms.
+3. **User Authentication:** OAuth authentication will be implemented, allowing users to sign in.
 4. **Search and Filters:** Implement a robust search and filtering system to help users find the perfect property.
 
 ## Challenges
